@@ -31,11 +31,11 @@
                     Text="Obtener Frase"
                     HorizontalOptions="Center"
                     Opacity=".4"
-                    VerticalOptions="Center"
+                    VerticalOptions="End"
                     BackgroundColor="White"
                     TextColor="Black"
                     FontSize="30"
-                    Clicked="btnGetRandomPhrase_Clicked" />
+                    />
         </Grid>
 
 
