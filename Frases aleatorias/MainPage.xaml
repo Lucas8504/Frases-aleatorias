@@ -4,7 +4,7 @@
              x:Class="Frases_aleatorias.MainPage">
 
 
-    <Grid BackgroundColor="DarkOrange">
+    <Grid x:Name="background">
         <Grid.Background>
             <LinearGradientBrush EndPoint="1,1">
                 <GradientStopCollection>
@@ -35,7 +35,7 @@
                     BackgroundColor="White"
                     TextColor="Black"
                     FontSize="30"
-                    />
+                    Clicked="btnGenerateQuote_Clicked"/>
         </Grid>
 
 
