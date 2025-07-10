@@ -1,0 +1,35 @@
+Cuando no creas cosas, te definen por tus gustos en lugar de habilidad. Tus gustos solo estrechas y excluyen a las personas. Entonces crea. - El rígido
+Java es para JavaScript lo qué automóvil es para la alfombra. - Chris Heilmann
+LISP no es un idioma, es un material de construcción. - Alan Kay
+La depuración es el doble que escribir el código en primer lugar. Por lo tanto, si escribe el código de la manera más inteligente posible, por definición, no es lo suficientemente inteligente como para depurarlo. - Brian W. Kernighan
+Lo mejor de un booleano es incluso si estás equivocado, solo estás fuera un poco. - Anónimo
+Lo más importante en el lenguaje de programación es el nombre. Un idioma no tendrá éxito sin un buen nombre. Recientemente he inventado un muy buen nombre y ahora estoy buscando un idioma adecuado. - Donald Knuth
+Los programadores están en una carrera con el universo para crear programas a prueba de idiotas más grandes y mejores, mientras que el universo está tratando de crear idiotas más grandes y mejores. Hasta ahora el universo está ganando. - cocinero rico
+Hay dos formas de construir un diseño de software: una forma es hacer que sea tan simple que obviamente no hay deficiencias, y la otra forma es hacer que sea tan complicado que no hay deficiencias obvias. El primer método es mucho más difícil. - AUTO. Hacer
+Se deben escribir programas para que las personas lean, y solo por cierto para que las máquinas se ejecuten. - Harold Abelson
+Si la depuración es el proceso de eliminación de errores de software, entonces la programación debe ser el proceso de ponerlos. - Edsger Dijkstra
+Caminar sobre el agua y desarrollar software a partir de una especificación es fácil si ambos están congelados. - Edward v Berard
+Sin requisitos o diseño, la programación es el arte de agregar errores a un archivo de texto vacío. - Louis Srygley
+Es prácticamente imposible enseñar una buena programación a los estudiantes que han tenido una exposición previa a lo básico: como programadores potenciales, se mutilan mentalmente más allá de la esperanza de regeneración. - Edsger Dijkstra
+La mayoría de ustedes están familiarizados con las virtudes de un programador. Hay tres, por supuesto: pereza, impaciencia y arrogancia. - Larry Wall
+Medir el progreso de la programación por líneas de código es como medir el progreso del edificio de la aeronave por peso.
+La programación de hoy es una carrera entre los ingenieros de software que se esfuerzan por construir programas más grandes y mejores a prueba de idiotas, y el universo que intenta producir idiotas más grandes y mejores. Hasta ahora, el universo está ganando. - Rick Cook
+Reglas de optimización: Regla 1: No lo hagas. Regla 2 (solo para expertos): no lo hagas todavía. - Michael A. Jackson
+Ya no hacen errores como Bunny. - Olav Mjelde
+Ready, Fire, AIM: el enfoque rápido para el desarrollo de software. Listo, objetivo, objetivo, objetivo, objetivo: el enfoque lento para el desarrollo de software. - Anónimo
+La vida cotidiana es como la programación, supongo. Si amas algo, puedes ponerle belleza. - Donald Knuth
+El problema con los programadores es que nunca se puede decir lo que está haciendo un programador hasta que sea demasiado tarde. - Seymour Cray
+La depuración es el doble que escribir el código en primer lugar. Por lo tanto, si escribe el código de la manera más inteligente posible, por definición, no es lo suficientemente inteligente como para depurarlo. - Brian W. Kernighan
+Siempre codifique como si el tipo que termina manteniendo su código será un psicópata violento que sabe dónde vive: John Woods
+Caminar sobre el agua y desarrollar software a partir de una especificación es fácil si ambos están congelados. - Edward v Berard
+Un lenguaje de programación es de bajo nivel cuando sus programas requieren atención a los irrelevantes. - Alan J. Perlis
+No es un error, es una característica indocumentada. - Anónimo
+Es posible que no piense que los programadores sean artistas, pero la programación es una profesión extremadamente creativa. Es la creatividad basada en la lógica. - John Romero
+La educación en ciencias de la computación no puede hacer de nadie un programador experto más que estudiar pinceles y pigmentos puede hacer de alguien un pintor experto. - Eric Raymond
+C hace que sea fácil dispararse en el pie; C ++ lo hace más difícil, pero cuando lo haces, quita toda tu pierna.
+Los mejores programas están escritos para que las máquinas informáticas puedan realizarlas rápidamente y para que los seres humanos puedan entenderlos claramente. Un programador es idealmente un ensayista que trabaja con formas estéticas y literarias tradicionales, así como conceptos matemáticos, para comunicar la forma en que un algoritmo funciona y convencer a un lector de que los resultados serán correctos. - Donald Ervin Knuth
+La depuración es el doble que escribir el código en primer lugar. Por lo tanto, si escribe el código de la manera más inteligente posible, por definición, no es lo suficientemente inteligente como para depurarlo. - Brian Kernighan
+Un programa C es como un baile rápido en una pista de baile recientemente encerada por personas que transportan maquinillas de afeitar. - Waldi Ravens
+Un buen programador es alguien que siempre mira en ambos sentidos antes de cruzar una calle de sentido único. - Doug Linder
+Si piensas en la programación de computadoras, es tan antisocial como parece. - Shawn Fanning
+Los mejores programadores no son marginalmente mejores que los simplemente buenos. Son mejor un orden de magnitud, medido por W

@@ -2,15 +2,34 @@
 {
     public partial class MainPage : ContentPage
     {
-       
+        List<string> quotes = new List<string>();
         public MainPage()
         {
             InitializeComponent();
         }
 
-       
+        protected override async void OnAppearing()
+        {
+            base.OnAppearing();
+            if (quotes.Count == 0)
+            {
+                await LoadMauiAsset();
+            }
+        }
+        async Task LoadMauiAsset()
+        {
+            using var stream = await FileSystem.OpenAppPackageFileAsync("quotes.txt");
+            using var reader = new StreamReader(stream);
 
-       
+            while (reader.Peek() != -1)
+            {
+                var line = reader.ReadLine();
+                if (!string.IsNullOrEmpty(line)) // Ensure the line is not null or empty  
+                {
+                    quotes.Add(line);
+                }
+            }
+        }
 
         Random random = new Random();
         private void btnGenerateQuote_Clicked(object sender, EventArgs e)
@@ -26,7 +45,6 @@
                       random.Next(0, 256),
                       random.Next(0, 256),
                       random.Next(0, 256));
-
 
             var colors =
               ColorUtility
@@ -49,7 +67,9 @@
 
             background.Background = gradient;
 
-            
+
+            int index = random.Next(quotes.Count);
+            quote.Text = quotes[index];
         }
     }
 

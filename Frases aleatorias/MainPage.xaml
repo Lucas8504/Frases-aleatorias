@@ -20,11 +20,13 @@
         <Grid Margin="25" RowDefinitions=" .8* , .2* ">
 
 
-            <Label FontSize="50" HorizontalOptions="Center"
-                   VerticalOptions="Center"
-                   TextColor="White"
-                   Text="Frases Aleatorias"
-                   FontAttributes="Bold" />
+            <Label
+                x:Name="quote"
+                FontSize="20" HorizontalOptions="Center"
+                VerticalOptions="Center"
+                TextColor="White"
+                Text="Frases Aleatorias"
+                FontAttributes="Bold" />
 
 
             <Button x:Name="btnGetRandomPhrase"
